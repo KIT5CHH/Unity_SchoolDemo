@@ -12,5 +12,6 @@ public class CDrotate : MonoBehaviour
     void Update()
     {
         transform.Rotate(Vector3.forward * Time.deltaTime * speed);
-    }
+    }//test
+    // 
 }
